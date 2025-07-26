@@ -1,4 +1,4 @@
-# Análisis de Sentimientos usando Deep Learning, PyTorch y Hugging Face Transformers
+# Análisis de Sentimiento usando Deep Learning, PyTorch y Hugging Face Transformers
 
 Este script realiza un Análisis de Sentimientos sobre opiniones escritas en español, utilizando Deep Learning, PyTorch y la librería Hugging Face Transformers. El archivo de datos CSV debe contener opiniones en español, cada una en una fila. El flujo incluye: carga y preprocesamiento de datos, tokenización,  construcción de dataset y dataloader, carga de un modelo preentrenado (BERT), entrenamiento (opcional), evaluación y predicción de sentimientos. Los comentarios de cada sección explican detalladamente los pasos realizados.
 
